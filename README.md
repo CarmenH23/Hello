@@ -20,3 +20,5 @@ Me considero una persona creativa y colaborativa
 Maestría en Ciencia de Datos de Posgrados CUCEA de la Universidad de Guadalajara.  
 
 ![](https://raw.githubusercontent.com/vcuspinera/UDG_MCD_Project_Dev_I/main/actividades/img/MCD_logo.png)
+
+_Note: Original idea by **[Tiffany Timbers](https://github.com/ttimbers/hello)**_
