@@ -7,6 +7,9 @@ Mi nombre es Carmen H, soy analista financiera en una empresa de tecnología
 [Fuente:Giphy](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2g3OWQ1dWwwanJmd2pnOG44d3Z3Mmx2dXNuNWE2anZ2ejc5dmRkNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzkZeQM6aHcodITVXf/giphy-downsized-large.gif)
 
 
+_Note: Original idea by **[Tiffany Timbers](https://github.com/ttimbers/hello)**_
+
+
 # Hola Soy Cristian Barenca 👋!!
 
 Me considero una persona creativa y colaborativa
